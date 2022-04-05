@@ -76,13 +76,13 @@ def handler(update, context):
 
     # 사용자가 보낸 메세지가 "오늘급식"일 경우
     if user_text == "오늘급식": 
-        bot.send_message(chat_id=M_1, text="[ 성일정보고등학교 급식 ]"+"\n"+DD_day+" ("+(W_day[WN_day])+")\n[중식]\n"+meal)
         bot.send_message(chat_id=M_2, text="[ 성일정보고등학교 급식 ]"+"\n"+DD_day+" ("+(W_day[WN_day])+")\n[중식]\n"+meal)
+#         bot.send_message(chat_id=M_2, text="[ 성일정보고등학교 급식 ]"+"\n"+DD_day+" ("+(W_day[WN_day])+")\n[중식]\n"+meal)
     
     # 사용자가 보낸 메세지가 "내일급식"일 경우
     elif user_text == "내일급식":
-        bot.send_message(chat_id=M_1, text="[ 성일정보고등학교 급식 ]"+"\n"+STT_day+" ("+(W2_day[WN2_day])+")\n[중식]\n"+meal_2)
         bot.send_message(chat_id=M_2, text="[ 성일정보고등학교 급식 ]"+"\n"+STT_day+" ("+(W2_day[WN2_day])+")\n[중식]\n"+meal_2)
+#         bot.send_message(chat_id=M_2, text="[ 성일정보고등학교 급식 ]"+"\n"+STT_day+" ("+(W2_day[WN2_day])+")\n[중식]\n"+meal_2)
 
     elif user_text == "!오늘급식":
         bot.send_message(chat_id=M_1, text="[ 성일정보고등학교 급식 ]"+"\n"+DD_day+" ("+(W_day[WN_day])+")\n[중식]\n"+meal)
