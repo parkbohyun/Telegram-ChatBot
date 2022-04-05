@@ -3,7 +3,7 @@
 
 name: Python application
 
-on:a
+on:
   push:
     branches: [ Bo._.H ]
   pull_request:
