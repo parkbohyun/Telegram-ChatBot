@@ -53,7 +53,7 @@ meal_2 = scmeal_2[0].DDISH_NM.replace("<br/>", "\n")  # 줄바꿈으로 만든�
 
 ## 텔레그램 봇
 token = "5151400483:AAHtsEuBlBF64ccaQiYf4-4Yceov0BFmIhM"
-M_1 = "5174190629"
+M_1 = "5271328836"
 M_2 = "5271328836"
 
 # for i in bot.getUpdates():    CHAT_ID
