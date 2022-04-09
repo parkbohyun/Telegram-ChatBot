@@ -66,8 +66,7 @@ bot = telegram.Bot(token)
 # updater
 updater = Updater(token=token, use_context=True)
 dispatcher = updater.dispatcher
-updater.start_polling()
- 
+updater.start_polling() 
 
 def handler(update, context):
     """
