@@ -27,7 +27,7 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         pip install python-telegram-bot
-        pip install neis.py
+        pip install Neispy
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
     - name: run
       run: |
