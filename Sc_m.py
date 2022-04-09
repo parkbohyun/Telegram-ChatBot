@@ -1,5 +1,5 @@
 import datetime     ## 오늘 날짜를 구하기 위해 사용
-from Neispy import Neispy
+from Neispy import neis.py
 import telegram
 from telegram.ext import Updater
 from telegram.ext import MessageHandler, Filters
