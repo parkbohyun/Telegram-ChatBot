@@ -2,7 +2,7 @@
 [![PyPI](https://img.shields.io/pypi/v/dart-fss.svg)](https://pypi.org/project/dart-fss/)
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/dart-fss.svg)
 
-나이스 API를 이용하여 원하는 학교의 급식을 가져와 채팅으로 명령시 급식을 알려주는 프로그램
+나이스 API를 이용하여 원하는 학교의 급식을 가져와 메신저를 통해 명령 입력시 급식을 알려주는 프로그램
 
 - Source code: https://github.com/parkbohyun/telegram_bot_menu
 
