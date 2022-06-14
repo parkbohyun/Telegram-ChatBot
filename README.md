@@ -109,7 +109,8 @@ dispatcher.add_handler(echo_handler)
 ```
 
 ## 작동 방법
-<img src="https://user-images.githubusercontent.com/47629333/173499669-1928a99e-372c-4981-9998-95a68394ef94.png", width="1000">
+![image](https://user-images.githubusercontent.com/47629333/173500077-f729afc9-34cf-42df-a6bf-32dc6285b5d2.png)
+
 
 
 ## License
