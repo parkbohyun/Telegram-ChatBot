@@ -109,7 +109,7 @@ dispatcher.add_handler(echo_handler)
 ```
 
 ## 작동 방법
-<img src = "https://user-images.githubusercontent.com/47629333/173500077-f729afc9-34cf-42df-a6bf-32dc6285b5d2.png" width = "100px" height = "100px">
+<img src = "https://user-images.githubusercontent.com/47629333/173500077-f729afc9-34cf-42df-a6bf-32dc6285b5d2.png" width = "500px" height = "700px">
 
 
 
