@@ -16,7 +16,7 @@ pip install python-telegram-bot
 pip install Neispy
 ```
 
-### Source
+## Source
 
 ```python
 import datetime     ## 오늘 날짜를 구하기 위해 사용
@@ -108,7 +108,8 @@ echo_handler = MessageHandler(Filters.text, handler)
 dispatcher.add_handler(echo_handler)
 ```
 
-##작동 방법
+## 작동 방법
+![image](https://user-images.githubusercontent.com/47629333/173499669-1928a99e-372c-4981-9998-95a68394ef94.png)
 
 
 ## License
