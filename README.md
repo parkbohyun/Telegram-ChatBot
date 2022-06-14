@@ -11,8 +11,9 @@
 - NeisAPI 필요
 - NeisAPI: [https://open.neis.go.kr/portal/guide/apiIntroPage.do](https://open.neis.go.kr/portal/guide/apiIntroPage.do)
 
-``` bash
-pip install 
+``` python
+pip install python-telegram-bot
+pip install Neispy
 ```
 
 ### Source
